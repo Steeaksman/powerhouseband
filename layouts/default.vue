@@ -2,7 +2,7 @@
     
     <section class="px-2 max-w-screen-2xl min-h-screen ">
 
- <newNav2/>
+ <newNav4/>
 <slot />
 
  <!-- Footer Section uses Flowbite  Sticky Footer-->
