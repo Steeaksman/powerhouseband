@@ -9,7 +9,9 @@
         <!-- Desktop Nav -->
         <nav class="hidden md:flex space-x-6">
           <NuxtLink to="/" class="hover:text-blue-500">Home</NuxtLink>
-          <!-- <NuxtLink to="/about" class="hover:text-blue-500">About</NuxtLink> -->
+          <NuxtLink to="/photos" class="hover:text-blue-500">Photos</NuxtLink>
+          <NuxtLink to="/video" class="hover:text-blue-500">Sound/Videos</NuxtLink>
+          <NuxtLink to="/shows" class="hover:text-blue-500">Shows</NuxtLink>
           <NuxtLink to="/contact" class="hover:text-blue-500">Contact</NuxtLink>
         </nav>
 
@@ -47,8 +49,10 @@
     <!-- Mobile Menu -->
     <div v-if="isOpen" class="md:hidden px-4 pb-4 space-y-2">
       <NuxtLink to="/" class="block hover:text-blue-500">Home</NuxtLink>
-      <!-- <NuxtLink to="/about" class="block hover:text-blue-500">About</NuxtLink> -->
-      <NuxtLink to="/contact" class="block hover:text-blue-500">Contact</NuxtLink>
+    <NuxtLink to="/photos" class="blockhover:text-blue-500">Photos</NuxtLink>
+    <NuxtLink to="/video" class="block hover:text-blue-500">Sound/Videos</NuxtLink>
+    <NuxtLink to="/shows" class="hover:text-blue-500">Shows</NuxtLink>
+    <NuxtLink to="/contact" class="block hover:text-blue-500">Contact</NuxtLink>
     </div>
   </header>
 </template>
