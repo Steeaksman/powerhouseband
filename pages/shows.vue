@@ -20,8 +20,8 @@ We are appearing at the Santa Ana Casino!! This Friday and Saturday night!!
    We will be performing for 2 days
 At the<br>
  SANTA ANA CASINO<br>
-June 6 at 8pm  
-June 7 at 11pm<br>
+June 6 at 9pm  
+June 7 at 9pm<br>
 Santa Ana Casino<br>
 6109 Aztec Rd NE,<br>
  Albuquerque, NM 87110
