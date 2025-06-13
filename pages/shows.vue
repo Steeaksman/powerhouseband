@@ -1,7 +1,7 @@
 <template>
     <div class="min-h-screen  relative bg-cover bg-bottom" style="background-image: url('/images/RealBlue Concert background_2.jpg')">
 
-    
+
 
      <div class="z-10 container mx-auto px-6 lg:px-0 py-12 text-center">
 
@@ -17,7 +17,7 @@
     </div>
 
     <div><h2 class="md:text-3xl text-2xl font-bold text-white mt-4">
-        
+
    We will be performing for 2 days
 At the<br>
  SANTA ANA CASINO<br>
