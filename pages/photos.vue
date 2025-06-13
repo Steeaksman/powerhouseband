@@ -26,13 +26,14 @@
     </div> -->
 
 
-    <div class="grid gap-6 mt-4 md:grid-cols-4 ">
+    <div class=" ml-10 space-y-4 md:flex justify-between mt-4 ">
+    <!-- <div class="grid gap-6 mt-4 md:grid-cols-3 "> -->
 
  <div><img class=" transform hover:scale-125 hover:rounded-xl duration-200" src="https://benweb73.s3.us-west-2.amazonaws.com/girlsinger.jpg" alt="bandlogo"/></div>
 
  <div><img class="transform hover:scale-125 hover:rounded-xl duration-200" src="https://benweb73.s3.us-west-2.amazonaws.com/4+members.jpg" alt="bandlogo"/></div>
 
- <div><img  class="transform hover:scale-125 hover:rounded-xl duration-200"src="https://benweb73.s3.us-west-2.amazonaws.com/guitar+player.jpg" alt="bandlogo"/></div>
+ 
 
  <div><img class="transform hover:scale-125 hover:rounded-xl duration-200" src="https://benweb73.s3.us-west-2.amazonaws.com/drummer.jpg" alt="bandlogo"/></div>
     </img>
