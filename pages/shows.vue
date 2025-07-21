@@ -6,7 +6,8 @@
      <div class="z-10 container mx-auto px-6 lg:px-0 py-12 text-center">
 
     <h2 class="md:text-3xl text-2xl font-bold text-white mb-4">
-    We are appearing at the Santa Ana Casino!! July 4th and 5th!!
+    Join us as we perform at The New Mexico State Fair!! 
+    
     </h2>
     
 
@@ -16,16 +17,13 @@
         <!-- <img src="/images/Red Concert background w Logo_740.jpg" alt="bandlogo"/> -->
     </div>
 
-    <div><h2 class="md:text-3xl text-2xl font-bold text-white mt-4">
+    <div><h2 class="md:text-3xl text-2xl font-bold text-white mt-24">
 
-   We will be performing for 2 days
-At the<br>
- SANTA ANA CASINO<br>
-July 4 at 9pm<br>
-July 5 at 9pm<br>
-Santa Ana Casino<br>
-6109 Aztec Rd NE,<br>
- Albuquerque, NM 87110
+We will be performing for 2 days
+at The New Mexico State Fair!!<br>
+September 4 at 7:30 pm<br>
+September 11 at 7:30 pm<br>
+
     </h2>
 </div>
     </div>
