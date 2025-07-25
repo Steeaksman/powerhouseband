@@ -6,7 +6,7 @@
         <div class="flex flex-col md:flex-row rounded-l-xl">
           <!-- Image -->
           <img
-            src="/images/Logo_1.png"
+            src="/images/Logo_2.png"
             alt=""
             class="object-fit rounded-xl h-80 md:h-64 md:rounded-l-xl md:rounded-r-none transform hover:scale-105 hover:rounded-xl duration-200"
           />
