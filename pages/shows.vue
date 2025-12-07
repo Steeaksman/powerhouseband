@@ -12,10 +12,10 @@
     
 
     <div class="">
-     <div class="mb-8 mx-auto">
+     <!-- <div class="mb-8 mx-auto">
         <img class ="mx-auto" src="https://benweb73.s3.us-west-2.amazonaws.com/December+3rd+promo.png" alt="bandlogo"/>
         
-    </div>
+    </div> -->
 
     
     </div>
