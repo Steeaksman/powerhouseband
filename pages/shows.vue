@@ -24,13 +24,12 @@
 <br/>
 
      <div class="">
+        <!-- Center the image in a flexbox div -->
     <div class="flex justify-center">
-  <Img
-   
-    width: 400px;
-    height: auto;
-    src="https://benweb73.s3.us-west-2.amazonaws.com/27+feb+with+band+photo.jpg"
-    alt="bandlogo"
+  
+    <img src="https://benweb73.s3.us-west-2.amazonaws.com/27+feb+with+band+photo_720w.jpg"
+    alt="show date"
+    
   />
 </div>
 
