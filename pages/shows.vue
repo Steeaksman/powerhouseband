@@ -26,6 +26,7 @@
      <div class="">
     <div class="flex justify-center">
   <NuxtImg
+    class="block mx-auto"
     src="https://benweb73.s3.us-west-2.amazonaws.com/27+feb+with+band+photo.jpeg"
     alt="bandlogo"
   />
