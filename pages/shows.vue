@@ -27,7 +27,7 @@
         <!-- Center the image in a flexbox div -->
     <div class="flex justify-center">
   
-    <img src="https://benweb73.s3.us-west-2.amazonaws.com/27+feb+with+band+photo_720w.jpg"
+    <img src="https://benweb73.s3.us-west-2.amazonaws.com/Cropped+band+photo_720w.jpg"
     alt="show date"
     
   />
