@@ -23,13 +23,16 @@
 <br/>
 <br/>
 
-     <div class="">
-        <!-- Center the image in a flexbox div -->
-    <div class="flex justify-center">
-  
-    <img src="https://benweb73.s3.us-west-2.amazonaws.com/Cropped+band+photo_720w.jpg"
-    alt="show date"
-    
+     <div class="mb-4">
+    <div class="flex justify-center mb-8">
+  <NuxtImg
+    src="https://benweb73.s3.us-west-2.amazonaws.com/April+17+2026.jpg"
+  />
+</div>
+
+<div class="flex justify-center">
+  <NuxtImg
+    src="https://benweb73.s3.us-west-2.amazonaws.com/May+21+2026.jpg"
   />
 </div>
 
