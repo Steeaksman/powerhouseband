@@ -32,7 +32,7 @@
 
 <div class="flex justify-center">
   <NuxtImg
-    src="https://benweb73.s3.us-west-2.amazonaws.com/May+21+2026.jpg"
+    src="https://benweb73.s3.us-west-2.amazonaws.com/1May+21+2026.png"
   />
 </div>
 
