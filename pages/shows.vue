@@ -25,16 +25,14 @@
 
      <div class="mb-4">
     <div class="flex justify-center mb-8">
-  <NuxtImg
-    src="https://benweb73.s3.us-west-2.amazonaws.com/April+17+2026.jpg"
+  <img src="https://benweb73.s3.us-west-2.amazonaws.com/April+17+2026.jpg"
      width="600"
   height="800"
   />
 </div>
 
 <div class="flex justify-center">
-  <NuxtImg
-    src="https://benweb73.s3.us-west-2.amazonaws.com/1May+21+2026.png"
+  <img src="https://benweb73.s3.us-west-2.amazonaws.com/1May+21+2026.png"
     width="600"
   height="800"
   />
