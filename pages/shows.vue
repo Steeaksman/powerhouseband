@@ -24,17 +24,23 @@
 <br/>
 
      <div class="mb-4">
-    <div class="flex justify-center mb-8">
-  <img src="https://benweb73.s3.us-west-2.amazonaws.com/April+17+2026.jpg"
-     width="600"
-  height="800"
+    
+
+<div class="flex justify-center mb-8">
+  <NuxtImg
+    src="https://benweb73.s3.us-west-2.amazonaws.com/May+21+2026.jpg"
   />
 </div>
 
-<div class="flex justify-center">
-  <img src="https://benweb73.s3.us-west-2.amazonaws.com/1May+21+2026.png"
-    width="600"
-  height="800"
+<div class="flex justify-center mb-8">
+  <NuxtImg
+    src="https://benweb73.s3.us-west-2.amazonaws.com/29+May+Promo_sized.jpg"
+  />
+</div>
+
+<div class="flex justify-center mb-8">
+  <NuxtImg
+    src="https://benweb73.s3.us-west-2.amazonaws.com/26+june+promo.jpg"
   />
 </div>
 
