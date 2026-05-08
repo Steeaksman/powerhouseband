@@ -28,7 +28,7 @@
 
 <div class="flex justify-center mb-8">
   <<img class=""
-    src="https://benweb73.s3.us-west-2.amazonaws.com/May+21+2026.jpg"
+    src="https://benweb73.s3.us-west-2.amazonaws.com/May%2B21%2B2026+resized_2.jpg"
   />
 </div>
 
